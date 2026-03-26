@@ -1,1 +1,1 @@
-sudo rm -fr /
+
